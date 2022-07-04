@@ -3,7 +3,7 @@
 - 👀 I’m interested in solving problems and building functional, and elegant digital experiences.
 - 🌱 I’m currently learning exciting new development and design tools, techniques and technologies. 
 - 💞️ I’m looking to collaborate on front-end development projects, take up new roles or fill a position. 
-- 📫 Share your thoughts with me via Email: [akintundesallam@gmail.com](akintundesallam@gmail.com) and Twitter: [@the_akintunde](https://twitter.com/the_akintunde).
+- 📫 Share your thoughts with me via Email: [akintundesallam@gmail.com](mailto:akintundesallam@gmail.com) and Twitter: [@the_akintunde](https://twitter.com/the_akintunde).
 - 💻 Do well to stop by my website: [akintunde.dev](https://www.akintunde.dev/).  
 - ⚡ Football and Formula 1 helps take the edge off.
 
