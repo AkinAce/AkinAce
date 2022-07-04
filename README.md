@@ -25,9 +25,11 @@
 <br />
 
 ### Talk to me:
-[<img align="center" alt="Twitter" width="26px" src="https://cdn.cdnlogo.com/logos/t/45/twitter.svg" style="padding-right:25px;" />](https://twitter.com/the_akintunde) 
-[<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:25px;" />](https://www.linkedin.com/in/akintunde-sallam/) 
-[<img align="center" alt="Behance" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="padding-right:25px;" />](https://www.behance.net/akintundesallam/) 
+[<img align="center" alt="Twitter" width="26px" src="https://cdn.cdnlogo.com/logos/t/45/twitter.svg" style="padding-right:15px;" />](https://twitter.com/the_akintunde)
+&nbsp;&nbsp;
+[<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:15px;" />](https://www.linkedin.com/in/akintunde-sallam/) 
+&nbsp;&nbsp;
+[<img align="center" alt="Behance" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="padding-right:15px;" />](https://www.behance.net/akintundesallam/) 
 
 
 <!---
